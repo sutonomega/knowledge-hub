@@ -1,0 +1,6 @@
+*
+!.gitignore
+!notes/
+!media/
+!notes/.gitkeep
+!media/.gitkeep
